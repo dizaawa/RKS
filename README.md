@@ -53,6 +53,9 @@ c.  Drawable
  f. Berikut vidio running aplikasi :
  
  
+https://user-images.githubusercontent.com/76541499/107844323-fb4d3e00-6e04-11eb-806d-4dc1dc5415e1.mp4
+
+
  
     
     
