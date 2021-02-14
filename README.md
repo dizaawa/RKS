@@ -52,8 +52,10 @@ c.  Drawable
     
  f. Berikut vidio running aplikasi :
  
- 
-https://user-images.githubusercontent.com/76541499/107844323-fb4d3e00-6e04-11eb-806d-4dc1dc5415e1.mp4
+
+
+![RKS](https://user-images.githubusercontent.com/76541499/107878316-3bdfb100-6f04-11eb-9a4d-6669820ecce8.gif)
+
 
 
  
